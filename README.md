@@ -17,5 +17,9 @@ A constantly evolving setup for controlling Elite Dangerous using DIY controller
 # Inspiration
  - [Simpit](https://www.simplicate.info/tag/joystick/), just holy shit look at this!
  
+# Overall Plan
+ 1.) I want to setup a custom built controller with switches and buttons with pretty LEDs and stuff that can be multi-pupose.
+ 2.) Would like to replicate the in-game cockpit as much as possible
+ 3.) Eventually probably replace the gamepad with a joystick and throttle control but I may not because I really like the gamepad.  Not sure if I would like a joystick as much.  Would be nice to have a spare hand.
  
  
